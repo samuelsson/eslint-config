@@ -2,7 +2,6 @@
   "name": "@samuelsson/eslint-config",
   "version": "2.0.0",
   "description": "eslint config for various javascript projects",
-  "main": "index.js",
   "files": [
     "base.js",
     "react-typescript.js",
