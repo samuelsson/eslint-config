@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/samuelsson/eslint-config/compare/v2.0.0...v2.1.0) (2022-02-17)
+
+
+### Features
+
+* 🎸 rule for react components to always be arrow functions ([d789526](https://github.com/samuelsson/eslint-config/commit/d7895266de78df4bfa503cce2911926103388ec6))
+
 ## [2.0.0](https://github.com/samuelsson/eslint-config/compare/v1.6.3...v2.0.0) (2022-02-17)
 
 
