@@ -18,12 +18,12 @@ The above command will install all peer-deps together with the actual package (t
 yarn add --dev @samuelsson/eslint-config
 ```
 
-When the config is installed we need to enable it. Add this property to your `package.json`:
+When the config is installed we need to enable one of the configs. Add the property to your `package.json` and also pick what config to use. If you want the base one you add this:
 
 ```json
 {
   "eslintConfig": {
-    "extends": "@samuelsson/eslint-config"
+    "extends": "@samuelsson/eslint-config/base"
   }
 }
 ```
@@ -38,4 +38,4 @@ You also need to set some prettier rules. Create a `.prettierrc` file in the roo
 
 ## Usage
 
-Enable `eslint` linting in your IDE and/or run `yarn run eslint ./ --ext .ts,.tsx,.js` in the terminal.
+Enable `eslint` linting in your IDE and/or run `yarn run eslint ./ --ext .js,.ts` in the terminal. Change the file extension to match your project and config.
