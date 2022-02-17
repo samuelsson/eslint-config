@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/samuelsson/eslint-config/compare/v1.6.3...v2.0.0) (2022-02-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* 🧨 The default export is not included anymore and specific config needs to
+be extended from.
+
+### Features
+
+* 🎸 separate base config from other environments ([3b3b3ef](https://github.com/samuelsson/eslint-config/commit/3b3b3efda275ff979e319a3aebf0557db835158a))
+
 ### 1.6.3 (2022-02-17)
 
 ## [1.6.2](https://github.com/samuelsson/quadrilateral/compare/@samuelsson/eslint-config@1.6.1...@samuelsson/eslint-config@1.6.2) (2021-05-15)
