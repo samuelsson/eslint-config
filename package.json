@@ -1,6 +1,6 @@
 {
   "name": "@samuelsson/eslint-config",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "eslint config for various javascript projects",
   "main": "index.js",
   "files": [
