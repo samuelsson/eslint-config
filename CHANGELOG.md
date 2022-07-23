@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/samuelsson/eslint-config/compare/v2.2.1...v2.3.0) (2022-07-23)
+
+
+### Features
+
+* 🎸 add rule - explicit-function-return-type ([d5789f7](https://github.com/samuelsson/eslint-config/commit/d5789f79e3272012786b7ef8def60ba4a1e17a71))
+
 ### [2.2.1](https://github.com/samuelsson/eslint-config/compare/v2.2.0...v2.2.1) (2022-07-23)
 
 ## [2.2.0](https://github.com/samuelsson/eslint-config/compare/v2.1.0...v2.2.0) (2022-07-23)

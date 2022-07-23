@@ -1,6 +1,6 @@
 {
   "name": "@samuelsson/eslint-config",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "eslint config for various javascript projects",
   "files": [
     "base.js",
