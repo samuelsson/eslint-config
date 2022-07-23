@@ -17,6 +17,7 @@
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./ --ext .js",
+    "cm": "npx git-cz",
     "release": "yarn standard-version && git push --follow-tags origin main && npm publish"
   },
   "repository": {
