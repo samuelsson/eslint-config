@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/samuelsson/eslint-config/compare/v2.4.0...v2.5.0) (2022-07-23)
+
+
+### Features
+
+* 🎸 remove base dependency for specific configs ([d1afc5f](https://github.com/samuelsson/eslint-config/commit/d1afc5f1e33da03500bd25fc21c085aa2e4fb55e))
+
 ## [2.4.0](https://github.com/samuelsson/eslint-config/compare/v2.3.0...v2.4.0) (2022-07-23)
 
 
