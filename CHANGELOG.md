@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/samuelsson/eslint-config/compare/v2.3.0...v2.4.0) (2022-07-23)
+
+
+### Features
+
+* 🎸 add rule - no-explicit-any ([c196e51](https://github.com/samuelsson/eslint-config/commit/c196e51a70d4012c087dea77765fc4eda7cdf1c5))
+
 ## [2.3.0](https://github.com/samuelsson/eslint-config/compare/v2.2.1...v2.3.0) (2022-07-23)
 
 
