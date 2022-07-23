@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/samuelsson/eslint-config/compare/v2.5.0...v2.5.1) (2022-07-23)
+
+
+### Bug Fixes
+
+* 🐛 remove next specific config from react typescript file ([d15a003](https://github.com/samuelsson/eslint-config/commit/d15a0038030ba7a3b6432fb0401e456a5aac7939))
+
 ## [2.5.0](https://github.com/samuelsson/eslint-config/compare/v2.4.0...v2.5.0) (2022-07-23)
 
 
