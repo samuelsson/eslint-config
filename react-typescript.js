@@ -23,9 +23,6 @@ module.exports = {
         tsx: 'never',
       },
     ],
-    'react/prop-types': 0,
-    'react/require-default-props': 0,
-    'react/jsx-filename-extension': ['error', { extensions: ['.tsx'] }],
     'react/function-component-definition': [
       2,
       {
@@ -33,8 +30,12 @@ module.exports = {
         unnamedComponents: 'arrow-function',
       },
     ],
-    '@typescript-eslint/no-use-before-define': [1],
+    'react/jsx-filename-extension': ['error', { extensions: ['.tsx'] }],
+    'react/prop-types': 0,
+    'react/require-default-props': 0,
     '@typescript-eslint/explicit-function-return-type': 'error',
+    '@typescript-eslint/no-explicit-any': 'error',
+    '@typescript-eslint/no-use-before-define': [1],
   },
   env: {
     browser: true,
