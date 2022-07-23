@@ -11,7 +11,6 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/typescript',
     'plugin:jsx-a11y/recommended',
-    'plugin:@next/next/recommended',
 
     // This extension does the following, so we don't have to set it manually:
     // - Enables eslint-plugin-prettier under `plugins`.
@@ -49,6 +48,6 @@ module.exports = {
   },
   env: {
     browser: true,
-    es6: true
+    es6: true,
   },
 };
